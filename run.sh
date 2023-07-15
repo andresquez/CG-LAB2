@@ -1,3 +1,3 @@
 #! /bin/bash
 
-./configure.sh && ./build.sh && ./build/FB
+./configure.sh && ./build.sh && ./build/GameOfLife
