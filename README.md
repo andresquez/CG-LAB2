@@ -1,2 +1,2 @@
-# CG-LAB1
-Computer Graphics Laboratory #1
+# CG-LAB2
+Computer Graphics Laboratory #2
